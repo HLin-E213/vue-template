@@ -1,0 +1,7 @@
+# 下面内容为禁止所有搜索引擎索引，可去 https://tool.chinaz.com/robots/ 自行生成
+User-agent: * 
+Disallow: / 
+
+# User-agent: * 表示所有的爬虫,即对所有的爬虫都有作用;
+# Allow: 表示允许爬虫访问,抓取的内容
+# Disallow: 禁止爬虫抓取的内容

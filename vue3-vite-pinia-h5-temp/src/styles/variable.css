@@ -1,0 +1,50 @@
+:root {
+  /*
+主色
+*/
+  --baseColor: #EF4033;
+  /*
+辅助色
+*/
+  --auxiliaryColor: #FF4B10;
+  --auxiliaryBlueColor: #5792FD;
+  --auxiliaryGreenColor: #06C764;
+  --auxiliaryOriginColor: #FFC000;
+  --auxiliaryBrownColor: #B79255;
+  /*
+背景色
+*/
+  --bgColor: #F5F5F5;
+  /*
+线条
+*/
+  --lineColor: #EDEDED;
+  /*
+导航模块
+*/
+  --titleColor: #000000;
+  /*
+小标题
+*/
+  --textColor: #333333;
+  /*
+副标题
+*/
+  --subTitleColor: #666666;
+  /*
+日期.时间
+*/
+  --timeColor: #969696;
+  /*
+输入框
+*/
+  --inputColor: #C0C4CC;
+  /*
+  小图标,金色
+  */
+  --iconColor: #B79255;
+  /*
+渐变色
+*/
+  --gradientColor: linear-gradient(-90deg, #FF6155, #EF4033);
+}
